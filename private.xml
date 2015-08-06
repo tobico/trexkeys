@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<root>
+<item>
+	<identifier>com.github.tobico.trexkeys</identifier>
+	<name>Trexkeys</name>
+
+	<autogen>__KeyToKey__ KeyCode::J, ModifierFlag::COMMAND_R, KeyCode::CURSOR_LEFT</autogen>
+	<autogen>__KeyToKey__ KeyCode::K, ModifierFlag::COMMAND_R, KeyCode::CURSOR_DOWN</autogen>
+	<autogen>__KeyToKey__ KeyCode::L, ModifierFlag::COMMAND_R, KeyCode::CURSOR_UP</autogen>
+	<autogen>__KeyToKey__ KeyCode::SEMICOLON, ModifierFlag::COMMAND_R, KeyCode::CURSOR_RIGHT</autogen>
+
+	<autogen>__KeyToKey__ KeyCode::A, ModifierFlag::COMMAND_R, KeyCode::CURSOR_LEFT, ModifierFlag::COMMAND_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::S, ModifierFlag::COMMAND_R, KeyCode::CURSOR_LEFT, ModifierFlag::OPTION_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::D, ModifierFlag::COMMAND_R, KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::F, ModifierFlag::COMMAND_R, KeyCode::CURSOR_RIGHT, ModifierFlag::COMMAND_R</autogen>
+
+
+	<autogen>__KeyToKey__ KeyCode::M, ModifierFlag::COMMAND_R, KeyCode::CURSOR_LEFT, ModifierFlag::SHIFT_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::COMMA, ModifierFlag::COMMAND_R, KeyCode::CURSOR_DOWN, ModifierFlag::SHIFT_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::DOT, ModifierFlag::COMMAND_R, KeyCode::CURSOR_UP, ModifierFlag::SHIFT_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::SLASH, ModifierFlag::COMMAND_R, KeyCode::CURSOR_RIGHT, ModifierFlag::SHIFT_L</autogen>
+
+	<autogen>__KeyToKey__ KeyCode::Z, ModifierFlag::COMMAND_R, KeyCode::CURSOR_LEFT, ModifierFlag::COMMAND_L|ModifierFlag::SHIFT_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::X, ModifierFlag::COMMAND_R, KeyCode::CURSOR_LEFT, ModifierFlag::OPTION_L|ModifierFlag::SHIFT_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::C, ModifierFlag::COMMAND_R, KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L|ModifierFlag::SHIFT_L</autogen>
+	<autogen>__KeyToKey__ KeyCode::V, ModifierFlag::COMMAND_R, KeyCode::CURSOR_RIGHT, ModifierFlag::COMMAND_R|ModifierFlag::SHIFT_L</autogen>
+</item>
+</root>
