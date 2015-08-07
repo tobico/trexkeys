@@ -10,7 +10,7 @@ won't (or can't), there's Trexkeys: keyboard mappings for home row navigation
 3. Press a key below the home row to both move the cursor, and select text
 4. Rawwrrrr!
 
-![Trexkeys Keyboard Layout](trex_keyboard.png)
+![Trexkeys Keyboard Layout](resources/trex_keyboard.png)
 
 # Installation
 
@@ -18,15 +18,23 @@ won't (or can't), there's Trexkeys: keyboard mappings for home row navigation
 
 Shortcuts on Windows are implemented using [AutoHotKey](http://www.autohotkey.com/).
 
-Coming soon!
+1. Install AutoHotKey
+2. Find the appropriate `.ahk` file inside the `windows` folder for your keyboard layout - if unsure, use "Standard"
+3. Double click the AHK to run it - it will show up as an "H" icon in your system tray
+4. You're ready to use Trexkeys!
+5. Copy the AHK to your Startup folder to have it run automatically on startup (To find the startup folder, press Win+R,
+then type `shell:Startup`)
 
 ## Mac OS X
 
 Shortcuts on OS X are implemented using [Karabiner](https://pqrs.org/osx/karabiner/).
 
-Install Karabiner, and then copy `private.xml` to `~/Library/Application\ Support/Karabiner/private.xml`,
-then open Karabiner preferences, click on the "Reload XML" button, and finally
-search for and enable the "Trexkeys" keymapping.
+1. Install Karabiner
+2. Copy `mac/private.xml` to `~/Library/Application\ Support/Karabiner/private.xml`
+3. Open Karabiner preferences
+4. Click on the "Reload XML" button
+5. Search for and enable the "Trexkeys" keymapping
+6. You're ready to use Trexkeys!
 
 ## Linux
 
