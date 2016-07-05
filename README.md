@@ -38,10 +38,7 @@ Shortcuts on OS X are implemented using [Karabiner](https://pqrs.org/osx/karabin
 
 ## Linux
 
-Shortcuts on Linux are implemented using a combination of [Xmodmap](https://wiki.archlinux.org/index.php/Xmodmap)
-to define a new modifier key, and a set of [Autokey](https://code.google.com/p/autokey/) scripts to define the new mappings.
-
-Coming soon!
+Linux support would be great! If you can work out how to do it, PRs would be welcome.
 
 # Attributions
 
